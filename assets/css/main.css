@@ -6,9 +6,9 @@
   --nav-font: "Poppins", sans-serif;
 }
 :root {
-  --background-color: #0c0b09;
-  --default-color: rgba(255, 255, 255, 0.7);
-  --heading-color: #ffffff;
+  --background-color: #fff;
+  --default-color: rgba(0, 0, 0, 0.7);
+  --heading-color: #000;
   --accent-color: #6b9b89;
   --surface-color: #29261f;
   --contrast-color: #0c0b09;
